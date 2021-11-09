@@ -1,2 +1,3 @@
 # amplifyapp
-Amplify Console CI/CD tutorial
+A note taking website using AWS Amplify
+Sourced from Amplify Console CI/CD tutorial
